@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mindGroup",
-    "slug": "mindGroup",
+    "name": "mindgroup",
+    "slug": "mindgroup",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

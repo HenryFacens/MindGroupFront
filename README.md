@@ -26,8 +26,8 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu ambiente:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/HenryFacens/MindGroup-Front.git
-cd MindGroup-Front
+git clone https://github.com/HenryFacens/MindGroupFront.git
+cd MindGroupFront
 ```
 ### 2. Instale as dependencias
 

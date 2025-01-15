@@ -41,3 +41,5 @@ npm start
 ```
 
 ### 4. Abra o App Expo e escaneie o QRcode
+
+### 5. Mude para seu IPV4 para funcionar o com o Back end
